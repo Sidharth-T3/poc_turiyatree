@@ -16,9 +16,9 @@ import os
 
 import requests
 import streamlit as st
-from dotenv import load_dotenv
+# from dotenv import load_dotenv
 
-load_dotenv()
+# load_dotenv()
 
 st.set_page_config(page_title="API Tester", page_icon="🧪", layout="wide")
 st.title("🧪 Lead Automation — API Tester")
